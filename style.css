@@ -1,0 +1,97 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+html {
+    font-size: 62.5%;
+}
+.section-info {
+    width: 100%;
+    height: 50rem;
+    background-color: rgb(250, 237, 161);
+}
+
+.section-info h2 {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    font-size: 4.6rem;
+}
+
+.div-info-general {
+    width: 100%;
+    height: 50rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.div-info {
+    width: 20%;
+    height: 35rem;
+    background-color: chartreuse;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.div-info h3 {
+    font-size: 3rem;
+    padding: 1rem 0rem 1rem 0rem;
+}
+
+.div-info p {
+    font-size: 2.4rem;
+    padding: 0rem 0rem 1.5rem 0rem;
+}
+
+.div-info button {
+    width: 45%;
+    height: 10%;
+    border-radius: 1rem;
+    background-color: darkmagenta;
+    font-size: 2rem;
+}
+
+.section-video {
+    width: 100%;
+    height: 46rem;
+    background-color: rgb(161, 250, 235);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 7rem;
+}
+
+.div-sec-vid-1 {
+    width: 20%;
+    height: 30rem;  
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.div-sec-vid-1 h2 {
+    font-size: 4.6rem;
+}
+
+.div-sec-vid-1 p {
+    font-size: 2rem;
+    padding: 1rem 0rem 1.5rem 0rem;
+}
+
+.div-sec-vid-1 button {
+    width: 35%;
+    height: 10%;
+    border-radius: 1rem;
+    background-color: darkmagenta;
+    font-size: 2rem;
+}
+
+.div-sec-vid-2 {
+    height: 31.5rem;
+}
+
